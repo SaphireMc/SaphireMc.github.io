@@ -1,0 +1,25 @@
+{
+    "minecraft": [
+        {
+            "version": "1.8"
+        }
+    ],
+
+    "website": [
+        {
+            "version": "0.0.1"
+        }
+    ],
+
+    "login-form": [
+        {
+            "version": "Indisponible Pour Le Moment !"
+        }
+    ],
+
+    "creators": [
+        {
+            "version": "La Version Pour Les Créateurs De Contenu N'est Pas Encore Disponible !"
+        }
+    ]
+}
